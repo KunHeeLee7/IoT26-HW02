@@ -1,6 +1,19 @@
 # IoT26-HW02
 
+### **Objective**
+* Use Raspberry Pi to read sensor data and control simple actuators.
+* Learn how to handle digital inputs from peripherals like push buttons to control outputs like LEDs or buzzers.
 
+### **Tasks Performed**
+* **Input Detection**: Implemented logic to detect pushbutton states (Pressed/Not pressed).
+* **Circuit Control**: Configured hardware and software to toggle an LED based on button input.
+* **Digital Input Programming**: Developed a Python script using the `gpiozero` library to handle button events and pull-up/pull-down resistor logic.
+
+### **Development Environment**
+* **Device**: Raspberry Pi
+* **Language**: Python
+* **Library**: `gpiozero`
+* **Tools**: SSH, RPI IDE
 
 https://github.com/user-attachments/assets/1ea2668c-8273-47cc-9f45-48e99331545e
 
