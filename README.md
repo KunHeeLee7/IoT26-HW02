@@ -13,7 +13,9 @@
 * **Device**: Raspberry Pi
 * **Language**: Python
 * **Library**: `gpiozero`
-* **Tools**: SSH, RPI IDE
+* **Tools**: SSH, Visual Studio Code (VS Code)
+
+---
 
 https://github.com/user-attachments/assets/1ea2668c-8273-47cc-9f45-48e99331545e
 
